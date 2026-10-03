@@ -1,16 +1,23 @@
 # Pertemuan 05 Perulangan Python
 
 Nama: Azizah Nur Kholishah 
+
 NIM: 2225250116
+
 Kelas: 3E
 
 ## Tujuan
 Menggunakan perulangan for dan while untuk menyelesaikan masalah iteratif dalam Python, khususnya dalam membuat dan menghitung jumlah deret aritmetika.
 
 ## Cara Menjalankan
+
+```bash
 python3 kuis/kuis2_deret_aritmetika.py
+```
 
 ## Algoritma Kuis 2
+
+```bash
 1. Program meminta pengguna memasukkan suku pertama (a) dan beda (d).
 2. Program meminta pengguna memasukkan banyak suku (n).
 3. Jika n kurang dari atau sama dengan 0, program akan meminta pengguna memasukkan kembali nilai n sampai diperoleh bilangan bulat positif.
@@ -20,6 +27,7 @@ python3 kuis/kuis2_deret_aritmetika.py
 7. Setiap nilai suku ditambahkan ke variabel total.
 8. Program menampilkan nomor dan nilai setiap suku.
 9. Setelah perulangan selesai, program menampilkan jumlah seluruh suku dengan dua angka di belakang koma.
+```
 
 ## Hasil Pengujian
 
